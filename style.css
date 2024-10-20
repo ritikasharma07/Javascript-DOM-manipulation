@@ -1,0 +1,15 @@
+button {
+    cursor: pointer;
+}
+
+.changeBg {
+    background: green;
+    padding: 12px;
+    margin: 12px;
+    width: fit-content;
+}
+
+.disable-btn {
+    opacity: 0.6;
+    pointer-events: none;
+}
